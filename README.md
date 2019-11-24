@@ -1,4 +1,5 @@
 Weekly exercise description on commit
+
 Week 1: Complete fizz-buzz, prime number, quadratic equation exercise
 
 Week 2: Complete chapter 1
