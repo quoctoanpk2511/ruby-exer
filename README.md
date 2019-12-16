@@ -1,4 +1,4 @@
-Weekly exercise description on commit
+# Weekly exercise description on commit
 
 Exercise follow the instructions in https://www.railstutorial.org/book
 
